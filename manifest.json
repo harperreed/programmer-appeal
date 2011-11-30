@@ -1,11 +1,11 @@
 {
-   "background_page": "background.html",
+
    "content_scripts": [ {
       "all_frames": true,
-      "js": [ "js/jquery.min.js", "js/jquery-ui.min.js", "js/mailto.js" ],
+      "js": [ "js/jquery.min.js", "js/jquery-ui.min.js", "js/appeal.js" ],
       "matches": [ "http://*/*" ]
    } ],
-   "description": "Choose how you want to send email.",
+   "description": "An appeal from a programmer will randomly visit you throughout the day.",
    "icons": {
       "128": "images/sendthru128.png",
       "16": "images/sendthru16.png",
@@ -13,8 +13,7 @@
       "48": "images/sendthru48.png",
       "64": "images/sendthru64.png"
    },
-   "name": "SendThru",
-   "options_page": "options.html",
+   "name": "IndecentProgrammer",
    "permissions": [ "tabs", "http://*/*", "https://*/*", "http://*.google.com/" ],
-   "version": "0.6"
+   "version": "0.1"
 }
