@@ -15,5 +15,5 @@
    },
    "name": "ProgrammerAppeal",
    "permissions": [ "tabs", "http://*/*", "https://*/*" ],
-   "version": "0.7"
+   "version": "0.8"
 }
