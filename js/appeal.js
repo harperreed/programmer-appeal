@@ -1,9 +1,7 @@
-
-
-		
 if (window == top) {
 	
 	$(document).ready(function() {
+      console.log('asd');
 		t = $('<div style="position: fixed; height: 144px; right: 200px; bottom: 0px;" id="programmer_holder"><img style="display:none;" id="programmer" src="http://dopeman.org/brandon.png"   width="106" height="144"/></div>');
 		$('body').append(t);
 
