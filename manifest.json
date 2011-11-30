@@ -14,6 +14,5 @@
       "64": "images/sendthru64.png"
    },
    "name": "ProgrammerAppeal",
-   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
-   "version": "0.2"
+   "version": "0.3"
 }
