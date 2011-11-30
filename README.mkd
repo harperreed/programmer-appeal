@@ -1,4 +1,4 @@
-## An appeal from a programmer
+## An appeal from programmer Brandon Harris
 
 I was cruising wikipedia and this dude kept popping up asking me for money. It seemed like they were appealing directly to ME. 
 
@@ -7,11 +7,13 @@ I thought it was hilarious and welcomed the little dude to join me on my interne
 [Download from the Chrome Store Here](https://chrome.google.com/webstore/detail/nffmonhnmojnphlkppocceaclkncgknn)
 
 ##### Please help me make this less terrible. 
-
+![Programmer Brandon Harris](https://harperreed.org/brandon.png)
 ### Notes
 
 * This is my first extension. it was really fun to build. took about an hour. i recommend it. 
 * It is probably riddled with bugs and ways to make your browser crash. 
+* follow brandon ([@jorm](https://twitter.com/jorm)) on twitter.
+* follow me ([@harper](https://twitter.com/jorm)) on twitter
 * check out [Brandon Harris's AMA on reddit](http://www.reddit.com/r/IAmA/comments/mr4pf/i_am_wikipedia_programmer_brandon_harris_ama/).
 * [donate money to wikipedia](https://donate.wikimedia.org/wiki/Special:FundraiserLandingPage?&template=Lp-layout-default&appeal-template=Appeal-template-default&appeal=Appeal-Brandon&form-template=Form-template-default&form-countryspecific=Form-countryspecific-control&utm_medium=sitenotice&utm_source=socialmedia&utm_campaign=C11_socialmedia_reddit). 
 * please help me make this better. 
