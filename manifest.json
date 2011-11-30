@@ -5,7 +5,7 @@
       "js": [ "js/jquery.min.js", "js/jquery-ui.min.js", "js/appeal.js" ],
       "matches": [ "http://*/*", "https://*/*" ]
    } ],
-   "description": "An appeal from a programmer will randomly visit you throughout the day.",
+   "description": "An appeal from a programmer will randomly visit you throughout the day. With hugs.",
    "icons": {
       "128": "images/sendthru128.png",
       "16": "images/sendthru16.png",
@@ -15,5 +15,5 @@
    },
    "name": "ProgrammerAppeal",
    "permissions": [ "tabs", "http://*/*", "https://*/*" ],
-   "version": "0.6"
+   "version": "0.7"
 }
