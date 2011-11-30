@@ -1,5 +1,5 @@
 if (window == top) {
-    bar = 6;
+    bar = 7;
     console.log('dirty');
     t = $('<div style="position: fixed; height: 144px; right: 200px; bottom: 0px;" id="programmer_holder"><a href="http://gg.ly/t3xhIY" target="_blank"><img border="0" style="display:none;" id="programmer" src="https://harperreed.org/brandon.png"   width="106" height="144"/></a></div>');
     $('body').append(t);
