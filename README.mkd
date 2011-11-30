@@ -8,7 +8,7 @@ I thought it was hilarious and welcomed the little dude to join me on my interne
 
 ##### Please help me make this less terrible. 
 
-##### Notes
+### Notes
 
 * This is my first extension. it was really fun to build. took about an hour. i recommend it. 
 * It is probably riddled with bugs and ways to make your browser crash. 
