@@ -7,7 +7,7 @@ I thought it was hilarious and welcomed the little dude to join me on my interne
 [Download from the Chrome Store Here](https://chrome.google.com/webstore/detail/nffmonhnmojnphlkppocceaclkncgknn)
 
 ##### Please help me make this less terrible. 
-![Programmer Brandon Harris](https://harperreed.org/brandon.png)
+
 ### Notes
 
 * This is my first extension. it was really fun to build. took about an hour. i recommend it. 
@@ -18,3 +18,5 @@ I thought it was hilarious and welcomed the little dude to join me on my interne
 * [donate money to wikipedia](https://donate.wikimedia.org/wiki/Special:FundraiserLandingPage?&template=Lp-layout-default&appeal-template=Appeal-template-default&appeal=Appeal-Brandon&form-template=Form-template-default&form-countryspecific=Form-countryspecific-control&utm_medium=sitenotice&utm_source=socialmedia&utm_campaign=C11_socialmedia_reddit). 
 * please help me make this better. 
 * thanks for @detour1999 for helping me learn how to use javascript (lol. seriously though. i was RUSTY.)
+
+![Programmer Brandon Harris](https://harperreed.org/brandon.png)
