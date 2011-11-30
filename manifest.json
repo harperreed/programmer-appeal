@@ -3,7 +3,7 @@
    "content_scripts": [ {
       "all_frames": true,
       "js": [ "js/jquery.min.js", "js/jquery-ui.min.js", "js/appeal.js" ],
-      "matches": [ "http://*/*" ]
+      "matches": [ "http://*/*", "https://*/*" ]
    } ],
    "description": "An appeal from a programmer will randomly visit you throughout the day.",
    "icons": {
