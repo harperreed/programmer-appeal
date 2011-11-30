@@ -13,7 +13,7 @@
       "48": "images/sendthru48.png",
       "64": "images/sendthru64.png"
    },
-   "name": "IndecentProgrammer",
+   "name": "ProgrammerAppeal",
    "permissions": [ "tabs", "http://*/*", "https://*/*" ],
-   "version": "0.1"
+   "version": "0.2"
 }
